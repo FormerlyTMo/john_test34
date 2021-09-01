@@ -1,0 +1,19 @@
+{
+    "name": "john_test34",
+    "description": "SomeText",
+    "owner": "",
+    "team_owner": "team1",
+    "slack_channel": "",
+    "platform": "",
+    "usage": "Dev",
+    "python3": "Y",
+    "gitflow": {
+        "enabled": "N",
+        "version": "N/A"
+    },
+    "sonarqube_status": "",
+    "runbook": {
+        "status": "",
+        "url": ""
+    }
+}
